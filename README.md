@@ -6,11 +6,8 @@ This repository contains the source code of my poetry book *Déchargements*.
 
 ## Where to find the book
 
-* TODO
-
-## How to contribute
-
-Please feel free to fork this repository if there are any edits you should love to suggest!
+* buy the book on [Amazon](#)
+* review the book on [Goodreads](#)
 
 ## Branches
 
