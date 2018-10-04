@@ -7,7 +7,7 @@ This repository contains the source code of my poetry book *Déchargements*.
 ## Where to find the book
 
 * buy the book on [Amazon](https://www.amazon.it/dp/B07HSJW75G/)
-* review the book on [Goodreads](#)
+* review the book on [Goodreads](https://www.goodreads.com/book/show/42182210-d-chargements)
 
 ## Branches
 
