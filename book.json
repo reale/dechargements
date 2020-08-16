@@ -1,0 +1,19 @@
+{
+    "author": "Roberto Reale",
+    "title": "Déchargements",
+    "description": "Déchargements",
+    "gitbook": ">= 3.x.x",
+    "plugins": [],
+    "root": "./manuscript",
+    "structure": {
+        "readme": "README.md",
+        "summary": "SUMMARY.md"
+    },
+    "links": {
+        "sidebar": {
+            "Source Code": "https://github.com/reale/dechargements",
+            "Read on GitBook": "https://dechargements.reale.me/"
+        }
+    },
+    "pluginsConfig": {}
+}
