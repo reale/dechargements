@@ -4,7 +4,7 @@
     "description": "Déchargements",
     "gitbook": ">= 3.x.x",
     "plugins": [],
-    "root": "./manuscript",
+    "root": "./markdown",
     "structure": {
         "readme": "README.md",
         "summary": "SUMMARY.md"
